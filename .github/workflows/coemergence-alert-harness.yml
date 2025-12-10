@@ -1,0 +1,17 @@
+name: CoEmergence Alert Harness (manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  coemergence-alert-harness:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run CoEmergence alert harness (dry-run)
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = 'Stop'
+          Set-StrictMode -Version Latest
+          ./scripts/Invoke-CoEmergenceAlertHarness.ps1 -DryRun
