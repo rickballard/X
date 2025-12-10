@@ -1,0 +1,4 @@
+id: CoEmergence_Window_20251210T005503Z
+created_utc: 20251210T005504Z
+track: 06_CoEPAmplify
+prompt_set: CoEP_Amplify_PromptSet_v1

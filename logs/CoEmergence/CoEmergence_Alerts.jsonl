@@ -1,0 +1,45 @@
+{
+  "WindowId": "CoEmergence_Window_20251209T205538Z",
+  "MetaPresent": true,
+  "NotesPresent": true,
+  "TranscriptPresent": true,
+  "Rubric": {
+    "CP": 3,
+    "COH": 3,
+    "DR": 3,
+    "ES": 3,
+    "MC": 3
+  },
+  "InterestingScore": 3.42,
+  "UTS": "20251210T015146Z"
+}
+{
+  "WindowId": "CoEmergence_Window_20251210T005503Z",
+  "MetaPresent": true,
+  "NotesPresent": true,
+  "TranscriptPresent": true,
+  "Rubric": {
+    "CP": 3,
+    "COH": 3,
+    "DR": 3,
+    "ES": 3,
+    "MC": 3
+  },
+  "InterestingScore": 3.42,
+  "UTS": "20251210T015146Z"
+}
+{
+  "WindowId": "CoEmergence_Window_20251210T010850Z",
+  "MetaPresent": true,
+  "NotesPresent": true,
+  "TranscriptPresent": true,
+  "Rubric": {
+    "CP": 3,
+    "COH": 3,
+    "DR": 3,
+    "ES": 3,
+    "MC": 3
+  },
+  "InterestingScore": 3.42,
+  "UTS": "20251210T015146Z"
+}
